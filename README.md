@@ -1,6 +1,6 @@
 # Hello there! :eyes: 
 
-### Welcome to my Github Account.
+### Welcome to my Github account.
 
 ### I'm an industrial engineer who is currently learning Python, SQL and C languages. Also, I want to specialize in data science.
 
